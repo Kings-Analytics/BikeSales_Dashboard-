@@ -23,6 +23,3 @@ This repository contains an Excel dashboard for analyzing bike sales data. The g
 ## Contributing
 Feedback and contributions are greatly appreciated. If you have suggestions for improving the dashboard or find an issue, please feel free to open an issue or submit a pull request.
 
-
-
-Project Link: https://github.com/ScorpionKing0147/BikeSales_Dashboard
